@@ -9,7 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d25da204-d7e7-4d87-8ee3-4c7b8dc61d64" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/MMPATHS/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MMPATHS/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MMPATHS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MMPATHS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MMPATHS/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MMPATHS/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MMPATHS/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MMPATHS/Views/Shared/_Layout.cshtml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710090429786</updated>
       <workItem from="1710090433645" duration="1691000" />
+      <workItem from="1710092883945" duration="704000" />
     </task>
     <servers />
   </component>
